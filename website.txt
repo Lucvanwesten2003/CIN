@@ -1,3 +1,4 @@
 hotfix
 bugfix
 New scroll animation
+minor bug fix
