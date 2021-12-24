@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-hotfix
-bugfix
-New scroll animation
-minor bug fix
-fd
-=======
-hotfixadsfadsfdasf
->>>>>>> hotfixes
+hotfixadsfadsfdasffdasfadsf
